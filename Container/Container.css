@@ -1,0 +1,8 @@
+.Container {
+    width: 60vh;
+    height: 70vh;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    border-radius: 1vh;
+}
